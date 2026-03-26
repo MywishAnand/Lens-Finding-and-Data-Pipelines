@@ -21,9 +21,9 @@ Strong gravitational lensing events are exceedingly rare compared to the vast se
 ├── model.py                  # Custom ResNet18 classification backbone
 ├── train.py                  # Main training loop with BCE pos_weights
 ├── MODEL_ARCHITECTURE.md     # Detailed architectural markdown with Mermaid diagrams
-└── lens-finding-test/        # Lensing Images Dataset
-    ├── train_lenses/         # Positive samples (imbalanced minority class)
-    ├── train_nonlenses/      # Negative samples (imbalanced majority class)
+└── lens-finding/             # Lensing Images Dataset
+    ├── train_lenses/         # Images with lenses (Positive samples)
+    ├── train_nonlenses/      # Images without lenses (Negative samples)
     ├── test_lenses/          
     └── test_nonlenses/       
 ```
