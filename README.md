@@ -2,7 +2,6 @@
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-EE4C2C.svg)](https://pytorch.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 A robust, PyTorch-based Deep Learning classification pipeline that identifies strong gravitational lenses in astronomical multi-filter imaging data. The model operates on spatial arrays representing three different optical filters `(3, 64, 64)`.
 
@@ -88,8 +87,3 @@ Despite the intense positive-class scarcity across astronomically enormous searc
 <p align="center">
   <img src="roc_curve.png" alt="Receiver Operating Characteristic Curve" width="60%">
 </p>
-
----
-
-## 📝 License
-This project is open source and available under the terms of the [MIT License](LICENSE).
