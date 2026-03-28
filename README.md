@@ -83,6 +83,6 @@ Despite the intense positive-class scarcity across astronomically enormous searc
 
 ## Best Model Weights
 
-Weights of the best trained model from this exercise are shared in the .pth file, here: https://drive.google.com/file/d/1Z_wLqCncj0RzrDX_lpJ1z-2lwQ2mq-Bp/
+Weights of the best trained model from this exercise are shared in the .pth file here: https://drive.google.com/file/d/1Z_wLqCncj0RzrDX_lpJ1z-2lwQ2mq-Bp/
 
 ---
