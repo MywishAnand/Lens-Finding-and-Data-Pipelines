@@ -69,12 +69,6 @@ This produces the formal metric output to standard-out and drops a pristine `roc
 
 ---
 
-## Best Model Weights
-
-Weights of the best trained model from this exercise are shared in the .pth file, here: https://drive.google.com/file/d/1Z_wLqCncj0RzrDX_lpJ1z-2lwQ2mq-Bp/
-
----
-
 ## 📊 Performance Benchmark
 
 Despite the intense positive-class scarcity across astronomically enormous search areas, the resilient ResNet mapping correctly flags target gravitational lensing properties versus cosmic backgrounds.
@@ -84,3 +78,11 @@ Despite the intense positive-class scarcity across astronomically enormous searc
 <p align="center">
   <img src="roc_curve.png" alt="Receiver Operating Characteristic Curve" width="60%">
 </p>
+
+---
+
+## Best Model Weights
+
+Weights of the best trained model from this exercise are shared in the .pth file, here: https://drive.google.com/file/d/1Z_wLqCncj0RzrDX_lpJ1z-2lwQ2mq-Bp/
+
+---
